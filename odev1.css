@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(220, 210, 198);
+}
+
+h1,h2,h3 {
+    color:rgb(71,80,80);
+}
+
+img {
+    scroll-margin-right: 30;
+}
+
+nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+
+a {
+    display:inline-table;
+    padding: 14px 16px;
+    background-color: #ccc;
+    text-decoration: none;
+    color: rgb(71,80,80);
+}
+
+a:hover {
+    background-color:rgb(106, 101, 97);
+    color: white;
+}
+
+li {
+    color: rgb(106, 101, 97) ;
+    font-size: 23px;
+}
+
+p {
+    color: rgb(106, 101, 97);
+    font-size: 23px;
+}
